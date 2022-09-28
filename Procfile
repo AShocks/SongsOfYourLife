@@ -1,1 +1,1 @@
-web: gunicorn songsblog.wsgi
+web: gunicorn songs_of_your_life.wsgi
